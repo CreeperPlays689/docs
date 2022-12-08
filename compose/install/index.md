@@ -1,5 +1,5 @@
 ---
-description: How to install Docker Compose
+description: How to install Docker Compose LOLOLOLOLOL
 keywords: compose, orchestration, install, installation, docker, documentation
 title: Overview
 toc_max: 3
